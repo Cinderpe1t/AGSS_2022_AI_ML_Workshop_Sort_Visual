@@ -47,4 +47,4 @@ import math
 - Can you guess each color belongs to which sorting algorithm?
 - Can you guess how long it will take if you want to make the same plots?
 
-
+[Next - AI Tic Tac Toe](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Tic_Tac_Toe) / [Top - AGSS 2022 AI ML Workshop](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop)
